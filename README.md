@@ -68,9 +68,7 @@ It features a clean GUI built with **Tkinter** and uses **SQLite** as the databa
 
 To run the application without installing Python:
 
-👉 [Click here to download the Windows .exe file](https://drive.google.com/[[[your-leink-her](https://drive.google.com/file/d/19XsbWp9kaCTUUaFKgMmGr8NbOxlrt9Lv/view?usp=sharing))](https://drive.google.com/drive/folders/19kJHsz9uT8_jfjLMkV5wlX_YG452uO5O?usp=drive_link)
----](https://drive.google.com/drive/folders/19kJHsz9uT8_jfjLMkV5wlX_YG452uO5O?usp=drive_link)
-
+👉 [Click here to download the Windows .exe file](https://drive.google.com/drive/folders/19kJHsz9uT8_jfjLMkV5wlX_YG452uO5O?usp=drive_link)
 ## 👩‍💻 Developed By
 
 **sama yasin**  
