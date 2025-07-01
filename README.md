@@ -64,11 +64,7 @@ It features a clean GUI built with **Tkinter** and uses **SQLite** as the databa
 | seatnumber    | TEXT    | Seat number            |
 
 ---
-## 🔽 Download Executable (.exe)
 
-To run the application without installing Python:
-
-👉 [Click here to download the Windows .exe file](https://drive.google.com/drive/folders/19kJHsz9uT8_jfjLMkV5wlX_YG452uO5O?usp=drive_link)
 ## 👩‍💻 Developed By
 
 **sama yasin**  
